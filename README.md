@@ -22,4 +22,5 @@
 
 ### Other Certifications
 - [x] EC-Council: Cisco LABS Crash Course
+- [ ] EC-Council: A Practical Introduction to Cloud Computing - Comming soon
 - [x] GREAT LEARNING: Web Scraping with Python
