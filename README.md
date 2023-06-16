@@ -9,6 +9,7 @@
 ### Cybersecurity Certifications
 - [x] EC-Council: Ethical Hacking Essentials E|HE
 - [ ] EC-Council: Digital Forensics Essentials D|FE - Comming soon
+- [ ] EC-Council: Network Defense Essentials N|DE - Comming soon
 - [x] EC-Council: Cybersecurity for Businesses - The Fundamental Edition
 - [x] EC-Council: Introduction to Dark Web, Anonymity, and Cryptocurrency
 - [x] EC-Council: SQL Injection Attacks
