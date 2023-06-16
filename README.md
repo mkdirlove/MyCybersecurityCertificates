@@ -6,6 +6,7 @@
   <br>
 </h1>
 
+### Cybersecurity Certification
 - [x] EC-Council: Ethical Hacking Essentials E|HE
 - [x] EC-Council: Cybersecurity for Businesses - The Fundamental Edition
 - [x] EC-Council: Introduction to Dark Web, Anonymity, and Cryptocurrency
@@ -17,3 +18,6 @@
 - [x] GREAT LEARNING: Introduction to Cybersecurity
 - [x] GREAT LEARNING: Network Security
 
+### Other Certification
+- [x] EC-Council: Cisco LABS Crash Course
+- [x] GREAT LEARNING: Web Scraping with Python
