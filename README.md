@@ -26,6 +26,7 @@
 - [x] TCM Academy: Mobile Application Penetration Testing - crdts to ph.fox
 - [x] TCM Academy: Python 201 For Hackers - crdts to ph.fox
 - [x] TCM Academy: Practical Windows Forensics - crdts to ph.fox
+- [x] TCM Academy: Practical API Hacking - crdts to ph.fox
 - [x] OPSWAT: Introduction to Critical Infrastructure Protection (NSE1)
 - [x] FORTINET Traning Institute: Information Security Awareness
 - [x] CYBRARY: Introduction to IT & Cybersecurity
@@ -35,4 +36,5 @@
 ### Other Certifications
 - [x] EC-Council: Cisco LABS Crash Course
 - [ ] EC-Council: A Practical Introduction to Cloud Computing - Comming soon
+- [x] TCM Academy: Rust 101 - crdts to ph.fox
 - [x] GREAT LEARNING: Web Scraping with Python
