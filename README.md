@@ -47,7 +47,7 @@
 
 | EC-Council: SQL Injection Attacks | TCM Academy: Practical Ethical Hacking | TCM Academy: Practical Web Application Security and Testing |
 |--|--|--|
-| ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/Introduction%20to%20Dark%20Web,%20Anonymity,%20and%20Cryptocurrency.png?raw=true) | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/TCM.png?raw=true) | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/TCM.png?raw=true) |
+| ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/Introduction%20to%20Dark%20Web,%20Anonymity,%20and%20Cryptocurrency.png?raw=true) | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/TCM-Practical_Ethical_Hacking.png?raw=true) | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/TCM.png?raw=true) |
 
 | TCM Academy: Windows Privilege Escalation for Beginners | TCM Academy: Linux Privilege Escalation for Beginners | TCM Academy: Open-Source Intelligence (OSINT) Fundamentals |
 |--|--|--|
