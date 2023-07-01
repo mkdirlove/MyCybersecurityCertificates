@@ -16,6 +16,10 @@
 - [x] TCM Academy: Practical Web Application Security and Testing - crdts to ph.fox
 - [x] TCM Academy: Windows Privilege Escalation for Beginners - crdts to ph.fox
 - [x] TCM Academy: Linux Privilege Escalation for Beginners - crdts to ph.fox
+- [x] TCM Academy: Open-Source Intelligence (OSINT) Fundamentals - crdts to ph.fox
+- [x] TCM Academy: External Pentest Playbook - crdts to ph.fox
+- [x] TCM Academy: Movement, Pivoting and Persistence - crdts to ph.fox
+- [ ] 
 - [x] OPSWAT: Introduction to Critical Infrastructure Protection (NSE1)
 - [x] FORTINET Traning Institute: Information Security Awareness
 - [x] CYBRARY: Introduction to IT & Cybersecurity
