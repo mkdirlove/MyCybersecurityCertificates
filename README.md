@@ -21,6 +21,8 @@
 - [x] TCM Academy: External Pentest Playbook - crdts to ph.fox
 - [x] TCM Academy: Movement, Pivoting and Persistence - crdts to ph.fox
 - [x] TCM Academy: Python 101 For Hackers - crdts to ph.fox
+- [x] TCM Academy: Linux 101 - crdts to ph.fox
+- [x] TCM Academy: Practical Malware Analysis & Triage - crdts to ph.fox
 - [x] OPSWAT: Introduction to Critical Infrastructure Protection (NSE1)
 - [x] FORTINET Traning Institute: Information Security Awareness
 - [x] CYBRARY: Introduction to IT & Cybersecurity
