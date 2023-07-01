@@ -26,6 +26,7 @@
 - [x] TCM Academy: Mobile Application Penetration Testing - crdts to ph.fox
 - [x] TCM Academy: Python 201 For Hackers - crdts to ph.fox
 - [x] TCM Academy: Practical Windows Forensics - crdts to ph.fox
+- [x] TCM Academy: The Definitive GRC Analyst Master Class - crdts to ph.fox
 - [x] TCM Academy: Practical API Hacking - crdts to ph.fox
 - [x] OPSWAT: Introduction to Critical Infrastructure Protection (NSE1)
 - [x] FORTINET Traning Institute: Information Security Awareness
