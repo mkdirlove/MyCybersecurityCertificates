@@ -8,7 +8,7 @@
 
 ### Cybersecurity Certifications
 - [x] EC-Council: Ethical Hacking Essentials E|HE
-- [ ] EC-Council: Digital Forensics Essentials D|FE - Comming soon
+- [x] EC-Council: Digital Forensics Essentials D|FE
 - [ ] EC-Council: Network Defense Essentials N|DE - Comming soon
 - [x] EC-Council: Cybersecurity for Businesses - The Fundamental Edition
 - [x] EC-Council: Introduction to Dark Web, Anonymity, and Cryptocurrency
@@ -41,7 +41,7 @@
 - [x] GREAT LEARNING: Web Scraping with Python
 
 ### 
-| EC-Council: Ethical Hacking Essentials EHE | EC-Council: Cybersecurity for Businesses - The Fundamental Edition | EC-Council: Introduction to Dark Web, Anonymity, and Cryptocurrency |
+| EC-Council: Ethical Hacking Essentials EHE | EC-Council: Digital Forensics Essentials (DFE) | EC-Council: Introduction to Dark Web, Anonymity, and Cryptocurrency |
 |--|--|--|
 | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/Ethical%20Hacking%20Essentials.png?raw=true) | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/Ethical%20Hacking%20Essentials.png?raw=true) | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/Cybersecurity%20for%20Businesses%20-%20The%20Fundamental%20Edition.png?raw=true) |
 
