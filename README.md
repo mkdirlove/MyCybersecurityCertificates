@@ -24,6 +24,7 @@
 - [x] TCM Academy: Linux 101 - crdts to ph.fox
 - [x] TCM Academy: Practical Malware Analysis & Triage - crdts to ph.fox
 - [x] TCM Academy: Mobile Application Penetration Testing - crdts to ph.fox
+- [x] TCM Academy: Python 201 For Hackers - crdts to ph.fox
 - [x] OPSWAT: Introduction to Critical Infrastructure Protection (NSE1)
 - [x] FORTINET Traning Institute: Information Security Awareness
 - [x] CYBRARY: Introduction to IT & Cybersecurity
