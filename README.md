@@ -43,7 +43,7 @@
 ### 
 | EC-Council: Ethical Hacking Essentials EHE | EC-Council: Digital Forensics Essentials (DFE) | EC-Council: Introduction to Dark Web, Anonymity, and Cryptocurrency |
 |--|--|--|
-| ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/Ethical%20Hacking%20Essentials.png?raw=true) | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/Ethical%20Hacking%20Essentials.png?raw=true) | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/Cybersecurity%20for%20Businesses%20-%20The%20Fundamental%20Edition.png?raw=true) |
+| ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/Ethical%20Hacking%20Essentials.png?raw=true) | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/EC-Digital_Forensics_Essentials_(DFE).png?raw=true) | ![](https://github.com/mkdirlove/MyCybersecurityCertificates/blob/main/Cybersecurity%20for%20Businesses%20-%20The%20Fundamental%20Edition.png?raw=true) |
 
 | EC-Council: SQL Injection Attacks | TCM Academy: Practical Ethical Hacking | TCM Academy: Practical Web Application Security and Testing |
 |--|--|--|
